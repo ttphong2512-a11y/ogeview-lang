@@ -3,28 +3,28 @@
 
   "hero_sub": "Updated automatically every day",
 
-  "news": "🔥 News",
-  "new_anime": "🆕 New Anime",
-  "ranking": "🏆 Top Anime",
-  "trending": "📈 Trending Anime",
+  "news": "News",
+  "new_anime": "New Anime",
+  "ranking": "Top Anime",
+  "trending": "Trending Anime",
 
   "loading": "Loading...",
   "detail": "Details",
   "close": "Close",
 
-  "score": "⭐ Score",
-  "year": "📅 Year",
-  "episodes": "🎬 Episodes",
-  "status": "📺 Status",
-  "studio": "🏢 Studio",
-  "duration": "⏱ Duration",
+  "score": "Score",
+  "year": "Year",
+  "episodes": "Episodes",
+  "status": "Status",
+  "studio": "Studio",
+  "duration": "Duration",
 
-  "synopsis": "📖 Synopsis",
-  "source": "🎬 Source",
-  "season": "🌸 Season",
-  "rating": "⭐ Rating",
+  "synopsis": "Synopsis",
+  "source": "Source",
+  "season": "Season",
+  "rating": "Rating",
 
-  "official_trailer": "🎬 Official Trailer",
+  "official_trailer": "Official Trailer",
 
   "loading_detail": "Loading...",
   "server_error": "Server is busy or unavailable.",
