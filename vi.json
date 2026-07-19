@@ -1,0 +1,33 @@
+{
+  "language": "Tiếng Việt",
+
+  "hero_sub": "Cập nhật tự động mỗi ngày",
+
+  "news": "🔥 Tin tức",
+  "new_anime": "🆕 Anime mới ra",
+  "ranking": "🏆 Bảng xếp hạng Anime",
+  "trending": "📈 Anime đang HOT",
+
+  "loading": "Đang tải...",
+  "detail": "Chi tiết",
+  "close": "Đóng",
+
+  "score": "⭐ Điểm",
+  "year": "📅 Năm",
+  "episodes": "🎬 Số tập",
+  "status": "📺 Trạng thái",
+  "studio": "🏢 Studio",
+  "duration": "⏱ Thời lượng",
+
+  "synopsis": "📖 Nội dung",
+  "source": "🎬 Nguồn",
+  "season": "🌸 Mùa phát sóng",
+  "rating": "⭐ Rating",
+
+  "official_trailer": "🎬 Trailer chính thức",
+
+  "loading_detail": "Đang tải dữ liệu...",
+  "server_error": "Máy chủ đang bận hoặc API tạm thời không phản hồi.",
+  "cannot_load": "Không thể tải dữ liệu",
+  "unknown": "Không rõ"
+}
