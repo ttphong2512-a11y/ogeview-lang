@@ -30,13 +30,13 @@
   "server_error": "Máy chủ đang bận hoặc API tạm thời không phản hồi.",
   "cannot_load": "Không thể tải dữ liệu",
   "unknown": "Không rõ",
-
-  "footerDesc":"Ogeview là nền tảng tổng hợp thông tin anime, trailer, bảng xếp hạng, anime theo mùa và tin tức được cập nhật thường xuyên.",
+"footerDesc":"Ogeview là nền tảng tổng hợp thông tin anime, trailer, bảng xếp hạng, anime theo mùa và tin tức được cập nhật thường xuyên. Chúng tôi giúp người hâm mộ anime khám phá các bộ phim mới, theo dõi lịch phát sóng và tìm kiếm thông tin nhanh chóng.",
 
 "footerAbout":"Giới thiệu",
 "footerPrivacy":"Chính sách bảo mật",
 "footerTerms":"Điều khoản sử dụng",
 "footerContact":"Liên hệ",
 "footerDisclaimer":"Miễn trừ trách nhiệm",
-"footerRights":"All Rights Reserved."
+"footerRights":"Tất cả quyền được bảo lưu."
+  
 }
