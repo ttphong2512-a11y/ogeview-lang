@@ -29,5 +29,14 @@
   "loading_detail": "Loading...",
   "server_error": "Server is busy or unavailable.",
   "cannot_load": "Unable to load data.",
-  "unknown": "Unknown"
+  "unknown": "Unknown",
+
+  "footerDesc":"Ogeview là nền tảng tổng hợp thông tin anime, trailer, bảng xếp hạng, anime theo mùa và tin tức được cập nhật thường xuyên.",
+
+"footerAbout":"Giới thiệu",
+"footerPrivacy":"Chính sách bảo mật",
+"footerTerms":"Điều khoản sử dụng",
+"footerContact":"Liên hệ",
+"footerDisclaimer":"Miễn trừ trách nhiệm",
+"footerRights":"All Rights Reserved."
 }
