@@ -30,4 +30,14 @@
   "server_error": "Server is busy or unavailable.",
   "cannot_load": "Unable to load data.",
   "unknown": "Unknown"
+
+  
+"footerDesc":"Ogeview is an anime information platform providing trailers, rankings, seasonal anime and updated news.",
+
+"footerAbout":"About",
+"footerPrivacy":"Privacy Policy",
+"footerTerms":"Terms of Service",
+"footerContact":"Contact",
+"footerDisclaimer":"Disclaimer",
+"footerRights":"All Rights Reserved."
 }
