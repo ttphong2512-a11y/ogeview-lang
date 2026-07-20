@@ -30,13 +30,12 @@
   "server_error": "Server is busy or unavailable.",
   "cannot_load": "Unable to load data.",
   "unknown": "Unknown",
+"footerDesc":"Ogeview is an anime information platform providing trailers, rankings, seasonal anime, and regularly updated news. We help anime fans discover new shows, follow release schedules, and quickly find information.",
 
-  "footerDesc":"Ogeview là nền tảng tổng hợp thông tin anime, trailer, bảng xếp hạng, anime theo mùa và tin tức được cập nhật thường xuyên.",
-
-"footerAbout":"Giới thiệu",
-"footerPrivacy":"Chính sách bảo mật",
-"footerTerms":"Điều khoản sử dụng",
-"footerContact":"Liên hệ",
-"footerDisclaimer":"Miễn trừ trách nhiệm",
+"footerAbout":"About",
+"footerPrivacy":"Privacy Policy",
+"footerTerms":"Terms of Service",
+"footerContact":"Contact",
+"footerDisclaimer":"Disclaimer",
 "footerRights":"All Rights Reserved."
 }
